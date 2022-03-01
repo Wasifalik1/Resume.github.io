@@ -1,0 +1,12 @@
+        body {background-color: #b0c4de;}
+        img {height: 200px;}
+        hr {
+            border-style: none;
+            border-top-style: dotted;
+            border-color: gray;
+            border-width: 5px;
+            width: 20%;
+        }
+        h1 {background-color: none; color: rgb(27, 33, 48);
+        font-family: cursive;}
+        h3 {background-color: none; color: rgb(27, 33, 48);}
